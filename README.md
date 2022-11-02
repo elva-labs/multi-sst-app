@@ -4,9 +4,7 @@ Test project for exploring how to set up a multi Serverless Stack (SST) app.
 
 This project started with a [question on the SST Discord server](https://discord.com/channels/983865673656705025/983866416832864350/1034104211492839495):
 
-```
-Does anyone know where I can find info about how to build a "multi SST app"? I've searched discord but only found mentions about it, and no deeper discussions. Any info or example project would be helpful.
-```
+> Does anyone know where I can find info about how to build a "multi SST app"? I've searched discord but only found mentions about it, and no deeper discussions. Any info or example project would be helpful.
 
 Core members of the SST community responded quickly, like they always do, but no example code or answers beyond "that should be doable" were provided. Therefore this open source project was set up, primarily to make clear what I want to achieve, but also to explore how to implement a multi sst app in a good way, and provide a working example that can be used for inspiration by others, or be used as a reference for improving the multi sst app experience.
 
