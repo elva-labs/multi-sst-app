@@ -4,6 +4,6 @@ export const handler: APIGatewayProxyHandlerV2 = async (event) => {
   return {
     statusCode: 200,
     headers: { "Content-Type": "text/plain" },
-    body: "Hello, sub service 1!",
+    body: "Hello, sub service 2!",
   };
 };
